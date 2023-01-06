@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nomaddiction
 - 👀 I’m interested in Stephen King's books, games and camping.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React.
 - 📫 Reach me @Pa1adinarium
 
 <!---
