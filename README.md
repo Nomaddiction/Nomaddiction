@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nomaddiction
-- 👀 I’m interested in Stephen King's books, games and camping.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript and React.
-- 📫 Reach me @Pa1adinarium
 
 <!---
 Nomaddiction/Nomaddiction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
