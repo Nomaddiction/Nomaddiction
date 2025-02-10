@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Nomaddiction
+- Python AQA Engineer 
 
 <!---
 Nomaddiction/Nomaddiction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
